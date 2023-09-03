@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-yaita
-- 👀 I’m interested in Python, C#, JavaScript and HTML
-- 🌱 I’m currently studying Master of Data Science
+- 👀 I’m interested in Python, R, C#, JavaScript and HTML
+- 🌱 Data Science
 - 💞️ I’m looking to collaborate on data cleansing for not-for-profits
 - 📫 How to reach me james.yaita@gmail.com
 
